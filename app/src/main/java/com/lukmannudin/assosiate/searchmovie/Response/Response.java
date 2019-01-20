@@ -1,4 +1,4 @@
-package com.lukmannudin.assosiate.searchmovie;
+package com.lukmannudin.assosiate.searchmovie.Response;
 
 import com.google.gson.annotations.SerializedName;
 
